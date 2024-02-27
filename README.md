@@ -103,11 +103,13 @@ cv2.destroyAllWindows()
 ### i) Write the frame as JPG image
 </br>
 </br>
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Image_Acqusition-_using_Web_Camera/assets/119475702/01fb3153-18c4-4ba5-a101-0c03e2a6c887)
 
 ### ii) Display the video
 </br>
 </br>
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Image_Acqusition-_using_Web_Camera/assets/119475702/0571b043-5c0d-4a6c-84cb-c4a3190566c3)
 
 ### iii) Display the video by resizing the window
