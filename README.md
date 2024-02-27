@@ -1,8 +1,5 @@
-# Image_Acqusition-_using_Web_Camera
+# EX-02   Image_Acqusition-_using_Web_Camera
 ## Aim
- 
-Aim:
- 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
 ii) Display the video 
@@ -29,8 +26,8 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.ROTATE_180)
 <br>
 ## Program:
  Python
-### Developed By:
-### Register No:
+### Developed By: SRI SAI PRIYA.S
+### Register No: 212222240103
 
 ## i) Write the frame as JPG file
 ```
