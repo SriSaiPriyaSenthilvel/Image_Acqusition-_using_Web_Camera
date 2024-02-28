@@ -113,7 +113,7 @@ cv2.destroyAllWindows()
 </br>
 </br>
 
-![WhatsApp Image 2024-02-28 at 07 56 49_b6e34150](https://github.com/SriSaiPriyaSenthilvel/Image_Acqusition-_using_Web_Camera/assets/119475702/1e02ee50-7f5c-438e-acbe-70165a87f016)
+![WhatsApp Image 2024-02-28 at 08 04 12_e71510bb](https://github.com/SriSaiPriyaSenthilvel/Image_Acqusition-_using_Web_Camera/assets/119475702/af7b6e8a-74e8-4f63-9a2e-2d253feb1aa4)
 
 ### iv) Rotate and display the video
 </br>
