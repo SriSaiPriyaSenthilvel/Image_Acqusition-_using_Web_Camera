@@ -88,6 +88,12 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## iv) Rotate and display the video
 ```
 import numpy as np
