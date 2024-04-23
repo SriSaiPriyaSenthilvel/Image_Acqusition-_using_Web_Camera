@@ -125,6 +125,21 @@ cv2.destroyAllWindows()
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Image_Acqusition-_using_Web_Camera/assets/119475702/01fb3153-18c4-4ba5-a101-0c03e2a6c887)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### ii) Display the video
 </br>
 </br>
